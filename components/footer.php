@@ -12,10 +12,10 @@
                              </h4>
                          </div>
                          <ul class="social-icon">
-                             <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
-                             <li><a href="#" title=""><i class="fab fa-twitter"></i></a></li>
-                             <li><a href="#" title=""><i class="fab fa-linkedin-in"></i></a></li>
-                             <li><a href="#" title=""><i class="fab fa-youtube"></i></a></li>
+                             <li><a href="#" aria-label="facebook"><i class="fab fa-facebook-f"></i></a></li>
+                             <li><a href="#" aria-label="x"><i class="fab fa-twitter"></i></a></li>
+                             <li><a href="#" aria-label="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                             <li><a href="#" aria-label="youtube"><i class="fab fa-youtube"></i></a></li>
                          </ul>
                          <h2 class="title">since 2025</h2>
                      </div>
@@ -24,20 +24,20 @@
                      <div class="footer-menu v2">
                          <div class="contact-widget footer-widget">
                              <h4 class="widget-title">Contacts</h4>
-                             <p>Aiero, New York - 1060 Str. First Avenue 1</p>
-                             <a href="tel:+13685678954" class="nmbr">800 100 975 20 34</a>
-                             <a href="tel:8003508431" class="nmbr">+ (123) 1800-234-5678</a>
-                             <a href="mailto:support@aiero.com" class="gmail">support@aiero.co</a>
+                             <p>166/A/01, Aluthhena, Egaloya, Bulathsinhala</p>
+                             <a href="tel:+13685678954" class="nmbr" aria-label="mobile">(+94) 76 3113219</a>
+                             <a href="tel:8003508431" class="nmbr" aria-label="mobile">(+94) 70 6113219</a>
+                             <a href="mailto:support@aiero.com" class="gmail"
+                                 aria-label="email">info@sapthaglobal.com</a>
                          </div>
                          <div class="footer-links footer-widget">
                              <h4 class="widget-title">Company</h4>
                              <ul>
-                                 <li><a href='about-us.html' title>About</a></li>
-                                 <li><a href="#" title="">Expertise</a></li>
-                                 <li><a href="#" title="">Sustainability</a></li>
-                                 <li><a href="#" title="">News & Media</a></li>
-                                 <li><a href="#" title="">Case Studies</a></li>
-                                 <li><a href="#" title="">Contacts</a></li>
+                                 <li><a href='about.php' aria-label="about us">About Us</a></li>
+                                 <li><a href="services.php" aria-label="services">Services</a></li>
+                                 <li><a href="careers.php" aria-label="careers">Careers</a></li>
+                                 <li><a href="contacts.php" aria-label="contacts">Contacts</a></li>
+                                 <li><a href="privacy-policy.php" aria-label="privacy policy">Privacy Policy</a></li>
                              </ul>
                          </div>
                          <div class="footer-links footer-widget m-0">
@@ -59,8 +59,8 @@
      <div class="footer-botom">
          <div class="container">
              <div class="footer-box">
-                 <p><a href="#">©Aiero</a> 2025. All rights reserved.</p>
-                 <span>Terms of use <a href="#">Privacy Policy</a></span>
+                 <p>© 2025 <strong>Saptha Global Solutions</strong>. All rights reserved.</p>
+                 <span>Terms of use <a href="privacy-policy.php" aria-label="privacy policy">Privacy Policy</a></span>
              </div>
          </div>
      </div>
