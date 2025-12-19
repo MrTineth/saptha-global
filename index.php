@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon -->
-    <link rel="icon" type="image/png" href="assets/images/favicon.ico">
+    <link rel="icon" type="image/png" href="assets/images/logo/favicon.png">
 
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&amp;display=swap" rel="stylesheet"
         media="print" onload="this.media='all'">
@@ -481,7 +481,7 @@
         <!-- video-banner2 -->
         <div class="video-banner2">
             <div class="video-banner-img2">
-                <img src="assets/images/logo4.svg" alt="logo">
+                <img src="assets/images/logo/logo-black.png" width="300" alt="logo">
                 <div class="video-box4">
                     <a href="about.php" aria-label="about" class="video-popup">
                         <span style="margin-right: 5px">Learn More</span>

@@ -20,7 +20,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
     <!-- favicon -->
-    <link rel="icon" type="image/png" href="assets/images/favicon.ico">
+    <link rel="icon" type="image/png" href="assets/images/logo/favicon.png">
 
     <!-- Google Fonts (deferred) -->
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&amp;display=swap" rel="stylesheet"

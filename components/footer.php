@@ -6,10 +6,7 @@
                  <div class="col-lg-4">
                      <div class="about-widget v2 footer-widget">
                          <div class="footer-logo">
-                             <!-- <img src="assets/images/logo2.svg" alt="AI Agency & Technology HTML Template"> -->
-                             <h4 style="margin: 0; color: white; font-weight: 600;">
-                                 SAPTHA
-                             </h4>
+                             <img src="assets/images/logo/footer-logo.png" width="200" alt="footer logo">
                          </div>
                          <ul class="social-icon">
                              <li><a href="#" aria-label="facebook"><i class="fab fa-facebook-f"></i></a></li>

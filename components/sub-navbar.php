@@ -5,8 +5,7 @@
          close</a>
      <div class="menu-content">
          <a class='logo' href='index.php' aria-label="home">
-             <!-- <img src="assets/images/logo2.svg" alt="logo"> -->
-             <h4 style="color: white">SAPTHA</h4>
+             <img src="assets/images/logo/logo-white.png" alt="logo">
          </a>
          <div class="sidebar-menu">
              <h4 class="title">contacts</h4>
@@ -64,10 +63,7 @@
                  <div class="header-logo">
                      <a href="javascript:void(0)" aria-label="toggle" class="menu-toggle"></a>
                      <a href='index.php' aria-label="home">
-                         <!-- <img src="assets/images/logo.svg" alt="logo"> -->
-                         <h4 style="margin: 0; color: black; font-weight: 600;">
-                             SAPTHA
-                         </h4>
+                         <img src="assets/images/logo/logo.png" width="200" alt="logo">
                      </a>
                  </div>
              </div>
@@ -152,10 +148,7 @@
                          <div class="header-logo">
                              <a href="javascript:void(0)" aria-label="toggle" class="menu-toggle"></a>
                              <a href='index.php' aria-label="home">
-                                 <!-- <img src="assets/images/logo.svg" alt="logo"> -->
-                                 <h4 style="margin: 0; color: black; font-weight: 600;">
-                                     SAPTHA
-                                 </h4>
+                                 <img src="assets/images/logo/logo.png" width="200" alt="logo">
                              </a>
                          </div>
                      </div>
