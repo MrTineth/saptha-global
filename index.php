@@ -5,12 +5,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saptha Global Solutions</title>
+    <title>Saptha Global Solutions - Turning Ideas Digital</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <meta name="description" content="Saptha Global Solutions">
+    <meta name="description" content="Saptha Global Solutions - Turning Ideas Digital">
     <meta name="author" content="Tineth Pathirage">
     <meta property="og:image" content="assets/img/logo/logo-og.png" />
     <meta property="og:image:width" content="1000" />
@@ -68,11 +68,10 @@
         </a>
         <div class="container">
             <div class="hero-content8">
-                <h2 class="title">Revolutionizing businesses with cutting-edge AI solutions and groundbreaking
+                <h2 class="title">Revolutionizing businesses with cutting-edge software solutions and groundbreaking
                     innovation</h2>
-                <p>Mummichog paradise fish! Triggerfish bango guppy opah sunfish
-                    bluntnose knifefish upside-down catfish cobia spookfish
-                    convict cichlid.
+                <p>We transform innovative concepts into scalable, secure, and high-performance software
+                    solutions.
                 </p>
                 <a class='ibt-btn ibt-btn-secondary' href='services.php' aria-label="services">
                     <span>Discover</span>
@@ -92,8 +91,8 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-8">
                         <div class="hero-content4">
-                            <h1 class="title mb-4">Revolutionizing businesses with <span>
-                                    cutting-edge Software </span>Solutions
+                            <h1 class="title mb-4">Building smart software solutions for <span>
+                                    modern businesses </span>worldwide.
                             </h1>
                         </div>
                     </div>
@@ -152,30 +151,30 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-content7">
-                        <h4 class="title">We work and integrate with this services</h4>
+                        <h4 class="title">We work and integrate with latest technologies</h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="service-box7">
                         <div class="social-link3">
-                            <img src="assets/images/icon/socila6.svg" alt="technologies">
-                            <span>Slack</span>
+                            <img src="assets/images/technologies/React.svg" alt="technologies">
+                            <span>React</span>
                         </div>
                         <div class="social-link3">
-                            <img src="assets/images/icon/social2.svg" alt="technologies">
-                            <span>Messanger</span>
+                            <img src="assets/images/technologies/Node.js.svg" alt="technologies">
+                            <span>Node</span>
                         </div>
                         <div class="social-link3">
-                            <img src="assets/images/icon/social3.svg" alt="technologies">
-                            <span>Skype</span>
+                            <img src="assets/images/technologies/Laravel.svg" alt="technologies">
+                            <span>Laravel</span>
                         </div>
                         <div class="social-link3">
-                            <img src="assets/images/icon/social4.svg" alt="technologies">
-                            <span>Telegram</span>
+                            <img src="assets/images/technologies/Tailwind CSS.svg" alt="technologies">
+                            <span>Tailwind</span>
                         </div>
                         <div class="social-link3 m-0">
-                            <img src="assets/images/icon/social5.svg" alt="technologies">
-                            <span>Discord</span>
+                            <img src="assets/images/technologies/Flutter.svg" alt="technologies">
+                            <span>Flutter</span>
                         </div>
                     </div>
                 </div>
@@ -242,7 +241,7 @@
                 <div class="ser-info12">
                     <div class="ser-counter12">
                         <div class="counter-box12">
-                            <span class="counter-number percent-counter" data-target="100">0</span>
+                            <span class="counter-number percent-counter" data-target="20">0</span>
                             <span class="counter-text">+</span>
                         </div>
                         <span class="client2">Happy clients</span>
@@ -454,8 +453,8 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="funfact-content3">
                             <div class="counter-box13">
-                                <span class="counter-number percent-counter" data-target="500">0</span>
-                                <span class="counter-text">k+</span>
+                                <span class="counter-number percent-counter" data-target="40">0</span>
+                                <span class="counter-text">+</span>
                             </div>
                             <h4 class="title">Happy & satisfied customers</h4>
                             <p>Achieved a 95% customer satisfaction rate across all software solutions.</p>
@@ -464,13 +463,13 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="funfact-content3">
                             <div class="counter-box13 v2">
-                                <span class="counter-text">$</span>
-                                <span class="counter-number percent-counter" data-target="150">0</span>
-                                <span class="counter-text">b</span>
+                                <span class="counter-text"></span>
+                                <span class="counter-number percent-counter" data-target="20">0</span>
+                                <span class="counter-text">+</span>
                             </div>
-                            <h4 class="title">Earns with our Aiero product</h4>
-                            <p>Delivered over $150 billion in cost savings for clients through optimized software
-                                solutions.</p>
+                            <h4 class="title">Successful Digital Solutions</h4>
+                            <p>Successfully delivered over 20 software solutions, helping businesses digital
+                                transformation.</p>
                         </div>
                     </div>
                 </div>
@@ -481,7 +480,7 @@
         <!-- video-banner2 -->
         <div class="video-banner2">
             <div class="video-banner-img2">
-                <img src="assets/images/logo/logo-black.png" width="300" alt="logo">
+                <img src="assets/images/logo/logo-white.png" width="300" alt="logo">
                 <div class="video-box4">
                     <a href="about.php" aria-label="about" class="video-popup">
                         <span style="margin-right: 5px">Learn More</span>
@@ -764,9 +763,8 @@
                     Elevate your experience with Interactive conversations and exclusive updates
                 </h2>
                 <p>
-                    Halosaur duckbilled barracudina, goosefish gar pleco, chum salmon armoured catfish gudgeon
-                    sawfish
-                    whitefish orbicular batfish mummichog paradise fish!
+                    Get exclusive updates, product announcements, and actionable technology insights
+                    delivered straight to your inbox.
                 </p>
                 <form action="#" method="post" class="newsletter-form">
                     <div class="input-box">

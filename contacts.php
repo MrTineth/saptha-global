@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact | Saptha Global Solutions</title>
+    <title>Contact - Saptha Global Solutions</title>
 
     <meta name="description" content="Contacts">
     <meta name="author" content="Tineth Pathirage">
@@ -78,8 +78,9 @@
                             <span class="sub-title">get in touch</span>
                             <h2 class="title animated-heading">We are always ready to help you and answer your questions
                             </h2>
-                            <p>Pacific hake false trevally queen parrotfish black prickleback mosshead
-                                warbonnet sweeper! Greenling sleeper.
+                            <p>Have a question, project idea, or need expert guidance? Our team is always
+                                ready to assist you with reliable answers and tailored software solutions.
+                                Reach out to us and let’s build something impactful together.
                             </p>
                         </div>
                         <div class="row">

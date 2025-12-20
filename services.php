@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Services | Saptha Global Solutions</title>
+    <title>Services - Saptha Global Solutions</title>
 
     <!-- Preconnect for faster font loading (PUT THIS FIRST!) -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -163,85 +163,71 @@
             <div class="container">
                 <div class="sec-title">
                     <span class="sub-title">Services</span>
-                    <h2 class="title animated-heading">The unique selling points & advantages of our service
+                    <h2 class="title animated-heading">Explore our range of expert services.
                     </h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature1.svg" alt="service image 1">
-                            <h4 class="title">AI Technology</h4>
-                            <p>Emphasize the expertise and knowledge of your
-                                team in developing and implementing neural
-                                networks
+                            <h4 class="title">Custom Software Development</h4>
+                            <p>Expertise in creating tailored software solutions for businesses.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature2.svg" alt="service image 2">
-                            <h4 class="title">Tailored solutions</h4>
-                            <p>Mention your ability to customize solutions
-                                based on specific business requirements
+                            <h4 class="title">Web & Mobile App Development</h4>
+                            <p>Building high-performance web and mobile applications.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature3.svg" alt="service image 3">
-                            <h4 class="title">Cutting-edge technology</h4>
-                            <p>Highlight your use of the latest tools
-                                and techniques in neural network development
+                            <h4 class="title">Cloud Solutions & Integration</h4>
+                            <p>Deploying secure, scalable, and efficient cloud solutions.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature4.svg" alt="service image 4">
-                            <h4 class="title">Modern development</h4>
-                            <p>Showcase successful case studies or client
-                                testimonials that demonstrate the effectiveness
-                                of your services
+                            <h4 class="title">Software Consulting & Strategy</h4>
+                            <p>Guiding businesses to make smart technology decisions.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature5.svg" alt="service image 5">
-                            <h4 class="title">AI consultancy & strategy</h4>
-                            <p>Emphasize the expertise and knowledge of your
-                                team in developing and implementing neural
-                                networks
+                            <h4 class="title">Enterprise Solutions & ERP</h4>
+                            <p>Optimizing operations with enterprise-grade systems.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature6.svg" alt="service image 6">
-                            <h4 class="title">Computer vision</h4>
-                            <p>Mention your ability to customize
-                                solutions based on specific business
-                                requirements
+                            <h4 class="title">Data Analytics & Business Intelligence</h4>
+                            <p>Turning complex data into actionable business insights.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature7.svg" alt="service image 7">
-                            <h4 class="title">Deployment & Integration</h4>
-                            <p>Highlight your use of the latest tools
-                                and techniques in neural network
-                                development
+                            <h4 class="title">AI & Machine Learning Solutions</h4>
+                            <p>Developing AI/ML solutions to drive efficiency and innovation.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/feature/feature8.svg" alt="service image 8">
-                            <h4 class="title">Predictive analytics</h4>
-                            <p>Showcase successful case studies or client
-                                testimonials that demonstrate the effectiveness
-                                of your services
+                            <h4 class="title">IT Support & System Maintenance</h4>
+                            <p>Providing continuous support for uninterrupted operations.
                             </p>
                         </div>
                     </div>

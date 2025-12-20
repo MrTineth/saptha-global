@@ -40,12 +40,17 @@
                          <div class="footer-links footer-widget m-0">
                              <h4 class="widget-title">Services</h4>
                              <ul>
-                                 <li><a href="#" title="">Air Freight</a></li>
-                                 <li><a href="#" title="">Sea Freight</a></li>
-                                 <li><a href="#" title="">Land Transport</a></li>
-                                 <li><a href="#" title="">Groupage</a></li>
-                                 <li><a href="#" title="">Consultancy</a></li>
-                                 <li><a href="#" title="">Value Added Services</a></li>
+                                 <li><a href="services.php" aria-label="Software Development">Software Development</a>
+                                 </li>
+                                 <li><a href="services.php" aria-label="Web & Mobile Development">Web & Mobile
+                                         Development</a></li>
+                                 <li><a href="services.php" aria-label="Cloud Solutions">Cloud Solutions</a></li>
+                                 <li><a href="services.php" aria-label="Software Consulting">Software Consulting</a>
+                                 </li>
+                                 <li><a href="services.php" aria-label="Enterprise Solutions">Enterprise Solutions</a>
+                                 </li>
+                                 <li><a href="services.php" aria-label="IT Support & Maintenance">IT Support &
+                                         Maintenance</a></li>
                              </ul>
                          </div>
                      </div>

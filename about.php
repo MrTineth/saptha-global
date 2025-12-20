@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About-Us | Saptha Global Solutions</title>
+    <title>About - Saptha Global Solutions</title>
 
     <!-- Preconnect for faster font loading (PUT THIS FIRST!) -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">

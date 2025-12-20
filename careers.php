@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Careers | Saptha Global Solutions</title>
+    <title>Careers - Saptha Global Solutions</title>
 
     <!-- Preconnect for faster font loading (PUT THIS FIRST!) -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -44,6 +44,22 @@
     </noscript>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+    .rounded-swal-popup {
+        border-radius: 20px !important;
+        z-index: 999999 !important;
+    }
+
+    .swal2-container {
+        z-index: 999999 !important;
+    }
+
+    .swal2-title {
+        font-weight: 600;
+    }
+    </style>
+
 </head>
 
 <body>
@@ -154,11 +170,12 @@
 
 
 
-                                    <a class='ibt-btn ibt-btn-secondary' aria-label="vacancies" href='' target='_blank'
-                                        title>
+                                    <a class="ibt-btn ibt-btn-secondary" aria-label="vacancies" href="#"
+                                        onclick="showVacancyAlert(event)" title="Explore Vacancies">
                                         <span>Explore Vacancies</span>
                                         <i class="icon-arrow-top"></i>
                                     </a>
+
                                 </div>
                             </div>
                         </div>
@@ -362,7 +379,24 @@
         <script src="assets/js/vendor/gsap.min.js" defer></script>
         <script src="assets/js/vendor/ScrollTrigger.min.js" defer></script>
         <script src="assets/js/main.js" defer></script>
-</body>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
+        <script>
+        function showVacancyAlert(event) {
+            event.preventDefault();
+
+            Swal.fire({
+                icon: 'info',
+                title: 'No Vacancies Available',
+                text: 'Currently, there are no open positions available. Please check back later for future opportunities.',
+                showConfirmButton: false,
+                timer: 2000,
+                customClass: {
+                    popup: 'rounded-swal-popup'
+                }
+            });
+        }
+        </script>
+</body>
 
 </html>

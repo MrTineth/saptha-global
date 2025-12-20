@@ -10291,8 +10291,12 @@ input[type="submit"]:hover {
 }
 
 .main-menu {
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
+
 
 .main-menu>ul li:hover>.mega-sub-menu,
 .main-menu>ul li:hover .sub-menu {
@@ -10970,11 +10974,11 @@ input[type="submit"]:hover {
   }
 }
 
-@media (max-width: 1366px) {
+/* @media (max-width: 1366px) {
   .vs-header2 .header-menu-area {
     padding: 19px 23px 21px 23px;
   }
-}
+} */
 
 .vs-header2 .header-menu-area .popup-search {
   margin-right: 16px;
@@ -23662,7 +23666,8 @@ ul {
 
 .social-link3 img {
   margin-bottom: 23px;
-  height: 59px;
+  height: auto;
+  width: 50px;
 }
 
 .social-link3 span {
