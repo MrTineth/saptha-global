@@ -768,7 +768,7 @@
                 </p>
                 <form action="#" method="post" class="newsletter-form">
                     <div class="input-box">
-                        <input type="text" placeholder="" required>
+                        <input type="text" required>
                         <label>Enter your email</label>
                     </div>
                     <button class="ibt-btn ibt-btn-dark">
@@ -782,6 +782,64 @@
     <!-- End newsletter-banner -->
 
 
+    <!-- service-sec8 -->
+    <section class="service-sec8" style="margin-bottom: 40px;">
+        <div class="container2">
+            <div class="service-content3">
+                <div class="ser-card3">
+                    <img src="assets/images/service/ser8-1.png" alt="api intergrtion">
+                    <div class="ser-content3">
+                        <h4 class="title">API integration to your business model for effective working</h4>
+                        <a class='ser-btn3' href='services.php' aria-label="services">Explore more</a>
+                    </div>
+                    <div class="ser-text">
+                        <a href="services.php" aria-label="services">AI Solutions</a>
+                        <a href="services.php" aria-label="services">AI Services</a>
+                    </div>
+                    <a href="services.php" aria-label="services" class="ser-btn">
+                        <i class="icon fontello icon-button-arrow"></i>
+                        <i class="icon2 fontello icon-button-arrow"></i>
+                    </a>
+                </div>
+                <div class="ser-card3 v2">
+                    <img src="assets/images/service/ser8-2.png" alt="documentation">
+                    <a href="services.php" class="view-btn" aria-label="services">
+                        <i class="icon fontello icon-button-arrow"></i>
+                        <i class="icon2 fontello icon-button-arrow"></i>
+                    </a>
+                    <div class="ser-team">
+                        <h4 class="title">Accompanying documentation for all services and products</h4>
+                        <p>Explore limitless possibilities with our intelligent solutions.
+                            Embrace the power of artificial intelligence today
+                        </p>
+                        <div class="ser-team-info">
+                            <div class="counter-box3 m-0">
+                                <span class="counter-number" data-target="100">0</span>
+                                <span class="counter-text">+</span>
+                            </div>
+                            <span class="user">live users</span>
+                        </div>
+                    </div>
+                    <a href="services.php" aria-label="services" class="ser-btn">
+                        <i class="icon fontello icon-button-arrow"></i>
+                        <i class="icon2 fontello icon-button-arrow"></i>
+                    </a>
+                </div>
+                <div class="ser-card3 v1">
+                    <img src="assets/images/service/ser8-3.png" alt="support">
+                    <div class="ser-content">
+                        <h4 class="title">Technical support for
+                            the entire service life
+                        </h4>
+                        <p>Instant assistance for all your queries. Experience seamless service with our AI-powered
+                            support</p>
+                        <img src="assets/images/icon/phone2.svg" alt="phone icon">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End service-sec8 -->
 
     <!-- footer-style4 -->
     <?php include 'components/footer.php'; ?>

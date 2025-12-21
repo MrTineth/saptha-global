@@ -133,6 +133,79 @@
         <!-- End about-us-sec5 -->
 
 
+        <!-- faq-sec -->
+        <section class="faq-sec3 ibt-section-gapBottom">
+            <div class="faq-tabs">
+                <div class="faq-content">
+                    <div class="sec-title white">
+                        <span class="sub-title">IT Experts</span>
+                        <h2 class="title animated-heading">Delivering Innovative Software Solutions for Business Growth
+                        </h2>
+                    </div>
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingseven">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseseven" aria-expanded="true" aria-controls="collapseseven">
+                                    Software Strategy & Planning
+                                </button>
+                            </h2>
+                            <div id="collapseseven" class="accordion-collapse collapse show"
+                                aria-labelledby="headingseven" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    We help businesses define clear software strategies by analyzing requirements,
+                                    selecting the right technologies, and planning scalable solutions aligned with
+                                    long-term goals.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingfive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                    Industry-Specific Software Solutions
+                                </button>
+                            </h2>
+                            <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive"
+                                data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    We develop customized software solutions tailored to industry-specific workflows,
+                                    ensuring improved efficiency, compliance, and business performance.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-0">
+                            <h2 class="accordion-header" id="headingsix">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
+                                    System Integration & Deployment
+                                </button>
+                            </h2>
+                            <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix"
+                                data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    Our team ensures seamless integration and deployment of software systems,
+                                    enabling smooth operations, minimal downtime, and reliable performance.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="services.php" aria-label="services" class="ibt-btn ibt-btn-outline">
+                        <span>Explore More</span>
+                        <i class="icon-arrow-top"></i>
+                    </a>
+                </div>
+                <div class="faq-img3">
+                    <img src="assets/images/event/faq3.png" alt="business development">
+                    <div class="feature-ai">
+                        <h4 class="title">IT Business Development</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End faq-sec -->
+
+
         <!-- service-sec10 -->
         <section class="service-sec10 ibt-section-gapTop">
             <div class="title-area">

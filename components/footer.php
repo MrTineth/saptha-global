@@ -42,15 +42,13 @@
                              <ul>
                                  <li><a href="services.php" aria-label="Software Development">Software Development</a>
                                  </li>
-                                 <li><a href="services.php" aria-label="Web & Mobile Development">Web & Mobile
-                                         Development</a></li>
+                                 <li><a href="services.php" aria-label="Data Analytics">Data Analytics</a></li>
                                  <li><a href="services.php" aria-label="Cloud Solutions">Cloud Solutions</a></li>
                                  <li><a href="services.php" aria-label="Software Consulting">Software Consulting</a>
                                  </li>
                                  <li><a href="services.php" aria-label="Enterprise Solutions">Enterprise Solutions</a>
                                  </li>
-                                 <li><a href="services.php" aria-label="IT Support & Maintenance">IT Support &
-                                         Maintenance</a></li>
+                                 <li><a href="services.php" aria-label="IT Support">IT Support</a></li>
                              </ul>
                          </div>
                      </div>

@@ -79,7 +79,7 @@
                         <div class="ser-card">
                             <img src="assets/images/service/service6-1.png" alt="service image">
                             <div class="ser-content">
-                                <h4 class="title">Full Stack Development</h4>
+                                <h4 class="title">Full Stack Software Development</h4>
                                 <p>Custom design and development of full stack architectures tailored to your
                                     specific
                                     business needs</p>
@@ -263,8 +263,8 @@
                             <div class="title-area2">
                                 <div class="sec-title white">
                                     <span class="sub-title">Our Value</span>
-                                    <h2 class="title animated-heading">Empowering digital-first customer experiences,
-                                        improving productivity, and streamlining operations across multiple industries
+                                    <h2 class="title animated-heading">Enhancing digital experiences, productivity, and
+                                        operational efficiency.
                                     </h2>
                                 </div>
                                 <div class="testi-count">

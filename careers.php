@@ -390,7 +390,7 @@
                 title: 'No Vacancies Available',
                 text: 'Currently, there are no open positions available. Please check back later for future opportunities.',
                 showConfirmButton: false,
-                timer: 2000,
+                timer: 3000,
                 customClass: {
                     popup: 'rounded-swal-popup'
                 }
