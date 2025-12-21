@@ -62,7 +62,7 @@
 
 
     <!-- hero-style2 -->
-    <section class="hero-style8">
+    <section class="hero-style8" style="padding-bottom: 50px;">
         <a class="aiero-button" href="#fature-down" aria-label="scroll down">
             Scroll down
         </a>
@@ -203,15 +203,15 @@
 
                             </li>
                             <li>
-                                <<img src="assets/images/icon/social2-2.svg" alt="technologies">
+                                <img src="assets/images/icon/social2-2.svg" alt="technologies">
 
                             </li>
                             <li>
-                                <<img src="assets/images/icon/social2-3.svg" alt="technologies">
+                                <img src="assets/images/icon/social2-3.svg" alt="technologies">
 
                             </li>
                             <li>
-                                <<img src="assets/images/icon/social2-4.svg" alt="technologies">
+                                <img src="assets/images/icon/social2-4.svg" alt="technologies">
 
                             </li>
                         </ul>
@@ -766,16 +766,6 @@
                     Get exclusive updates, product announcements, and actionable technology insights
                     delivered straight to your inbox.
                 </p>
-                <form action="#" method="post" class="newsletter-form">
-                    <div class="input-box">
-                        <input type="text" required>
-                        <label>Enter your email</label>
-                    </div>
-                    <button class="ibt-btn ibt-btn-dark">
-                        <span>Subscribe</span>
-                        <i class="icon-arrow-top"></i>
-                    </button>
-                </form>
             </div>
         </div>
     </section>

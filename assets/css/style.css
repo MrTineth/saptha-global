@@ -12551,6 +12551,17 @@ input[type="submit"]:hover {
   margin-left: 55px;
 }
 
+.footer-menu.v2 p,
+.footer-menu.v2 a {
+  color: #ffffff;
+}
+
+
+.footer-menu.v2 a:hover {
+  color: #45d0bd;
+}
+
+
 @media (max-width: 1025px) {
   .footer-menu.v2 {
     margin-left: 9px;

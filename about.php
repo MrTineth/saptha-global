@@ -197,9 +197,6 @@
                 </div>
                 <div class="faq-img3">
                     <img src="assets/images/event/faq3.png" alt="business development">
-                    <div class="feature-ai">
-                        <h4 class="title">IT Business Development</h4>
-                    </div>
                 </div>
             </div>
         </section>

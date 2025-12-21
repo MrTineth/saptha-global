@@ -18,41 +18,48 @@
                      </div>
                  </div>
                  <div class="col-lg-8">
-                     <div class="footer-menu v2">
-                         <div class="contact-widget footer-widget">
-                             <h4 class="widget-title">Contacts</h4>
-                             <p>166/A/01, Aluthhena, Egaloya, Bulathsinhala</p>
-                             <a href="tel:+13685678954" class="nmbr" aria-label="mobile">(+94) 76 3113219</a>
-                             <a href="tel:8003508431" class="nmbr" aria-label="mobile">(+94) 70 6113219</a>
-                             <a href="mailto:support@aiero.com" class="gmail"
-                                 aria-label="email">info@sapthaglobal.com</a>
+                     <div class="row footer-menu v2 g-4">
+                         <!-- Contacts -->
+                         <div class="col-md-4 footer-widget">
+                             <h4 class="widget-title mb-3">Contacts</h4>
+                             <p class="mb-2">166/A/01, Aluthhena, Egaloya, Bulathsinhala</p>
+                             <a href="tel:+94763113219" class="d-block mb-1 nmbr" aria-label="mobile">(+94) 76
+                                 3113219</a>
+                             <a href="tel:+94706113219" class="d-block mb-1 nmbr" aria-label="mobile">(+94) 70
+                                 6113219</a>
+                             <a href="mailto:info@sapthaglobal.com" class="d-block gmail" aria-label="email">
+                                 info@sapthaglobal.com
+                             </a>
                          </div>
-                         <div class="footer-links footer-widget">
-                             <h4 class="widget-title">Company</h4>
-                             <ul>
-                                 <li><a href='about.php' aria-label="about us">About Us</a></li>
-                                 <li><a href="services.php" aria-label="services">Services</a></li>
-                                 <li><a href="careers.php" aria-label="careers">Careers</a></li>
-                                 <li><a href="contacts.php" aria-label="contacts">Contacts</a></li>
-                                 <li><a href="privacy-policy.php" aria-label="privacy policy">Privacy Policy</a></li>
+
+                         <!-- Company -->
+                         <div class="col-md-4 footer-widget">
+                             <h4 class="widget-title mb-3">Company</h4>
+                             <ul class="list-unstyled">
+                                 <li class="mb-2"><a href="about.php">About Us</a></li>
+                                 <li class="mb-2"><a href="services.php">Services</a></li>
+                                 <li class="mb-2"><a href="careers.php">Careers</a></li>
+                                 <li class="mb-2"><a href="contacts.php">Contacts</a></li>
+                                 <li><a href="privacy-policy.php">Privacy Policy</a></li>
                              </ul>
                          </div>
-                         <div class="footer-links footer-widget m-0">
-                             <h4 class="widget-title">Services</h4>
-                             <ul>
-                                 <li><a href="services.php" aria-label="Software Development">Software Development</a>
-                                 </li>
-                                 <li><a href="services.php" aria-label="Data Analytics">Data Analytics</a></li>
-                                 <li><a href="services.php" aria-label="Cloud Solutions">Cloud Solutions</a></li>
-                                 <li><a href="services.php" aria-label="Software Consulting">Software Consulting</a>
-                                 </li>
-                                 <li><a href="services.php" aria-label="Enterprise Solutions">Enterprise Solutions</a>
-                                 </li>
-                                 <li><a href="services.php" aria-label="IT Support">IT Support</a></li>
+
+                         <!-- Services -->
+                         <div class="col-md-4 footer-widget">
+                             <h4 class="widget-title mb-3">Services</h4>
+                             <ul class="list-unstyled">
+                                 <li class="mb-2"><a href="services.php">Software Development</a></li>
+                                 <li class="mb-2"><a href="services.php">Data Analytics</a></li>
+                                 <li class="mb-2"><a href="services.php">Cloud Solutions</a></li>
+                                 <li class="mb-2"><a href="services.php">Software Consulting</a></li>
+                                 <li class="mb-2"><a href="services.php">Enterprise Solutions</a></li>
+                                 <li><a href="services.php">IT Support</a></li>
                              </ul>
                          </div>
+
                      </div>
                  </div>
+
              </div>
          </div>
      </div>
